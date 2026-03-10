@@ -15,14 +15,14 @@
 	<CE_Wind_Beaufort11>Gwałtowna burza</CE_Wind_Beaufort11>
 	<CE_Wind_Beaufort12>Hurricane</CE_Wind_Beaufort12>
 
-	<CE_Wind_Direction_N>kierując się na północ</CE_Wind_Direction_N>
-	<CE_Wind_Direction_NE>kierując się na północny wschód</CE_Wind_Direction_NE>
-	<CE_Wind_Direction_E>kierując się na wschód</CE_Wind_Direction_E>
-	<CE_Wind_Direction_SE>kierując się na południowy wschód</CE_Wind_Direction_SE>
-	<CE_Wind_Direction_S>kierując się na południe</CE_Wind_Direction_S>
-	<CE_Wind_Direction_SW>kierując się na południowy zachód</CE_Wind_Direction_SW>
-	<CE_Wind_Direction_W>kierując się na zachód</CE_Wind_Direction_W>
-	<CE_Wind_Direction_NW>kierując się na północny zachód</CE_Wind_Direction_NW>
+	<CE_Wind_Direction_N>Skierowany na północ</CE_Wind_Direction_N>
+	<CE_Wind_Direction_NE>Skierowany na północny wschód</CE_Wind_Direction_NE>
+	<CE_Wind_Direction_E>Skierowany na wschód</CE_Wind_Direction_E>
+	<CE_Wind_Direction_SE>Skierowany na południowy wschód</CE_Wind_Direction_SE>
+	<CE_Wind_Direction_S>Skierowany na południe</CE_Wind_Direction_S>
+	<CE_Wind_Direction_SW>Skierowany na południowy zachód</CE_Wind_Direction_SW>
+	<CE_Wind_Direction_W>Skierowany na zachód</CE_Wind_Direction_W>
+	<CE_Wind_Direction_NW>Skierowany na północny zachód</CE_Wind_Direction_NW>
 
 	<CE_Wind_Tooltip>Aktualna prędkość i kierunek wiatru.\n\nWiatr wpływa na sposób rozprzestrzeniania się pożarów i może mieć różne nasilenie – od lekkich Wietrzyków po silne Burze.</CE_Wind_Tooltip>
 </LanguageData>
